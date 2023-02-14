@@ -1,0 +1,50 @@
+/* body{
+  background-image: url('http://meencurry.com/wp-content/uploads/2015/05/wildlife-in-kerala-backwaters.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+} */
+h1{
+  text-align: center;
+}
+.black{
+    width: 500px;
+    height: 500px;
+    background-color: #2d2d2d;
+    opacity: 0.5;
+  }
+  
+ 
+        .left{
+        position: absolute;
+        bottom: 189px;
+        left: 30px;
+        text-align: center;
+        color: white;
+        
+    }
+    .black{
+      position: absolute;
+      bottom: 50px;
+      left: 20px;
+      opacity: 0.5;
+    }
+    .frm{
+      text-align: center;
+      background-color:wheat;
+    }
+    .card-title{
+     color: white;
+    }
+  
+    .con{
+      text-align: center;
+      margin-top: 16px;
+      
+      margin-left: 30px;
+    }
+    .log{
+      text-align: center;
+    }
+  
+   
